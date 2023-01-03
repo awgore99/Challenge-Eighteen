@@ -1,3 +1,4 @@
+// From UTA Bootcamp Module 21 Activity 16
 const addDateSuffix = (date) => {
     let dateStr = date.toString();
   
